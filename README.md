@@ -21,10 +21,7 @@ The project was developed using python 3.8.3 with the following packages.
 
 
 ## Files
-- /notebook/Prima_Indians_Diabetes_Prediction.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling and inference.
-- /app.py : Streamlit App script
-- /requirements.txt : pre-requiste libraries for the project
-- /models/ : trained model and scaler objects
+- /notebook/Digit-Recognizer.ipynb : Jupyter Notebook with all the workings including pre-processing, modelling and inference.
 - /data/ : Download the data set from Kaggle, link provided in this folder and keep it here.
 
 
